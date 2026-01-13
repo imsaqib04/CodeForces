@@ -22,7 +22,6 @@ public class PashmakAndFlowers {
             sb.append(index).append('\n'); // store
         }
 
-        // 🔥 ek hi baar print
         System.out.print(sb.toString());
     }
 }
